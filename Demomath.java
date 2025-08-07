@@ -1,4 +1,4 @@
-public class DemoMath {
+public class Demomath {
   public static void main (String[] args) {
     int x = 5;
     int y = 9;
